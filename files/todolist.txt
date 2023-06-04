@@ -13,3 +13,6 @@ get thw car
 book
 edit buy camera
 make soup
+bastani
+get groceries
+

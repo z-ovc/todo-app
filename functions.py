@@ -5,3 +5,8 @@ def get_todos():
         with open('files/todolist.txt','r') as file_local:
                 todos_local = file_local.readlines()
         return todos_local
+
+def write_todos(x):
+        with open('files/todolist.txt','w') as file:
+                todos = file.writelines(x)
+        return todos
