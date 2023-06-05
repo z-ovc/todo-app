@@ -10,3 +10,6 @@ def write_todos(x):
         with open('files/todolist.txt','w') as file:
                 todos = file.writelines(x)
         return todos
+
+if __name__=="__main__":
+        print('ok')
