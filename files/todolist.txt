@@ -1,11 +1,10 @@
 do homework
 sleep
-book
+get book
 study
 buy groceries
-being good
-apply a job
-studybooks
+study books
 relax
 buy cookies
 buy ice cream
+improve yourself
